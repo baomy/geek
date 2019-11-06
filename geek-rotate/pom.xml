@@ -5,14 +5,10 @@
   <modelVersion>4.0.0</modelVersion>
 
   <groupId>com.nico</groupId>
-  <artifactId>geek</artifactId>
-    <packaging>pom</packaging>
-    <version>1.0-SNAPSHOT</version>
-    <modules>
-        <module>geek-rotate</module>
-    </modules>
+  <artifactId>geek-rotate</artifactId>
+  <version>1.0-SNAPSHOT</version>
 
-    <name>geek</name>
+  <name>geek-rotate</name>
   <!-- FIXME change it to the project's website -->
   <url>http://www.example.com</url>
 

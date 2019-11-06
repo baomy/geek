@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/geek.iml" filepath="$PROJECT_DIR$/geek.iml" />
+      <module fileurl="file://$PROJECT_DIR$/geek-rotate/geekrotate.iml" filepath="$PROJECT_DIR$/geek-rotate/geekrotate.iml" />
     </modules>
   </component>
 </project>
